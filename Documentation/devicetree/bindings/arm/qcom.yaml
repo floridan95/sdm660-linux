@@ -906,6 +906,7 @@ properties:
               - bbry,athena-boe
               - bbry,athena-syna
               - vsmart,active1
+              - nokia,7-plus
           - const: qcom,sdm660
 
       - items:
